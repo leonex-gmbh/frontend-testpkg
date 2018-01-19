@@ -1,5 +1,5 @@
 {
-  "name": "@leonex/testpkg",
+  "name": "@leonex/frontend-testpkg",
   "version": "1.0.0",
   "description": "Test package to try out organization features",
   "main": "index.js",
