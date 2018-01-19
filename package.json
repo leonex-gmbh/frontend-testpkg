@@ -1,6 +1,6 @@
 {
   "name": "@leonex/frontend-testpkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test package to try out organization features",
   "repository": {
     "type": "git",
